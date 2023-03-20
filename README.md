@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViktoriiaProtasova
 - 👀 I’m interested in Full Stack developing
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML & CSS and Java Script
 - 💞️ I’m looking to collaborate on somebody who needs to mark up a web site to get it in my portfolio
 - 📫 How to reach me viktorka.protasova@gmail.com
 
