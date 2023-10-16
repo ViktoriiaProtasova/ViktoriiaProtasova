@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ViktoriiaProtasova
 - 👀 I’m interested in Full Stack developing
-- 🌱 I’m currently learning HTML & CSS, JavaScript and React
-- 💞️ I’m looking to collaborate with somebody who needs to mark up a website to get it in my portfolio
+- 🌱 I’m currently learning HTML & CSS, JavaScript, React, Redux, and Node.js
 - 📫 How to reach me protasova.dev@gmail.com
 
 <!---
