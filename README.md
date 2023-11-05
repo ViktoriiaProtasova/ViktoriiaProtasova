@@ -18,6 +18,7 @@
 - 📄 Know about my experiences: [view resume](https://drive.google.com/file/d/1E1WTfbrbjC7fHdxNiij8bK_S2gsPcYgg/view?usp=drive_link)
 
 🛠 **Languages and Tools:** 
+
 <div>
   <img src="./images/html5-original.svg" title="HTML5" alt="HTML5"  height="40"/>&nbsp&nbsp;
   <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3"  height="40"/>&nbsp&nbsp;
