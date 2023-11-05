@@ -25,7 +25,7 @@
   <img src="./images/react-original.svg"  title="React" alt="React"  height="40"/>&nbsp&nbsp;
   <img src="./images/redux.svg" title="Redux" alt="Redux"  height="40"/>&nbsp&nbsp;
   <img title="Node.js" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />&nbsp&nbsp;
-  <img title="MongoDB" alt="MongoDB" width="32px" src="./images/mongo.png" />
+  <img title="MongoDB" alt="MongoDB" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />&nbsp&nbsp;
   <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code"  height="40"/>&nbsp&nbsp;
   <img src="./images/sass-original.svg" title="Sass" alt="Sass"  height="40"/>&nbsp&nbsp;
   <img src="./images/git-original.svg" title="Git" alt="Git"  height="40"/>&nbsp&nbsp;
