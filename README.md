@@ -18,10 +18,25 @@
 - 📄 Know about my experiences: [view resume](https://drive.google.com/file/d/1E1WTfbrbjC7fHdxNiij8bK_S2gsPcYgg/view?usp=drive_link)
 
 🛠 **Languages and Tools:** 
-NODE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
+<div>
+  <img src="./images/html5-original.svg" title="HTML5" alt="HTML5"  height="40"/>&nbsp&nbsp;
+  <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3"  height="40"/>&nbsp&nbsp;
+  <img src="./images/Javascript-shield.svg"  title="JS" alt="JS"  height="40"/>&nbsp&nbsp;
+  <img src="./images/react-original.svg"  title="React" alt="React"  height="40"/>&nbsp&nbsp;
+  <img src="./images/redux.svg" title="Redux" alt="Redux"  height="40"/>&nbsp&nbsp;
+  <img title="Node.js" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />&nbsp&nbsp;
+  <img title="MongoDB" alt="MongoDB" width="32px" src="./images/mongo.png" />
+  <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code"  height="40"/>&nbsp&nbsp;
+  <img src="./images/sass-original.svg" title="Sass" alt="Sass"  height="40"/>&nbsp&nbsp;
+  <img src="./images/git-original.svg" title="Git" alt="Git"  height="40"/>&nbsp&nbsp;
+  <img src="./images/github-original.svg" title="Github"  alt="Github"  height="40" />&nbsp&nbsp;
+  <img src="./images/figma-original.svg" title="Figma" alt="Figma"  height="40"/>&nbsp&nbsp;
+  <img src="./images/npm-original.svg" title="Npm" alt="Npm"  height="40"/>&nbsp&nbsp;
+  <img src="./images/parcel.svg" title="Parcel" alt="Parcel" height="40"/>&nbsp&nbsp;
+  <img src="./images/Vitejs-logo.svg" title="Vitejs" alt="Vitejs"  height="40"/>&nbsp&nbsp;
+  <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack"  height="40"/>&nbsp&nbsp;
+  <img src="./images/postman-icon-svg.svg" title="Postman" alt="Postman"  height="40"/>&nbsp&nbsp;
+</div>
 
 
 
