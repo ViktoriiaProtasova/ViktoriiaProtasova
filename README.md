@@ -32,7 +32,6 @@
   <img src="./images/sass-original.svg" title="Sass" alt="Sass"  height="40"/>&nbsp&nbsp;
   <img src="./images/git-original.svg" title="Git" alt="Git"  height="40"/>&nbsp&nbsp;
   <img src="./images/github-original.svg" title="Github"  alt="Github"  height="40" />&nbsp&nbsp;
-  <img src="./images/figma-original.svg" title="Figma" alt="Figma"  height="40"/>&nbsp&nbsp;
   <img src="./images/npm-original.svg" title="Npm" alt="Npm"  height="40"/>&nbsp&nbsp;
   <img src="./images/parcel.svg" title="Parcel" alt="Parcel" height="40"/>&nbsp&nbsp;
   <img src="./images/Vitejs-logo.svg" title="Vitejs" alt="Vitejs"  height="40"/>&nbsp&nbsp;
