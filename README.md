@@ -12,7 +12,7 @@
 
 👩‍💻 **About me:**
 - 👀 I'm interested in Full Stack development
-- 🌱 I’m currently learning React Native and TypeScript  and actively improving my JavaScript skills
+- 🌱 I’m currently learning TypeScript and React Native and actively improving my JavaScript skills
 - 👯 I'm eager to explore new collaborative opportunities and take on challenging projects.
 - 📫 How to reach me: protasova.dev@gmail.com
 - 👨‍💻 All of my projects are available at [portfolio](https://protasova-portfolio-project.netlify.app/)
