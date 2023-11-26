@@ -6,9 +6,9 @@
 
 📚 **My educational achievements:**
 
-- Completed course on **Full Stack development** in **GoIT EdTech company** 
-- Certificate in **Introduction to Front-End Developmen**t from **Meta**
-- Certificate in **Basics, Plus, and Responsive Design** from **SheCodes**
+- [x] Completed course on **Full Stack development** in **GoIT EdTech company** 
+- [x] Certificate in **Introduction to Front-End Developmen**t from **Meta**
+- [x] Certificate in **Basics, Plus, and Responsive Design** from **SheCodes**
 
 👩‍💻 **About me:**
 - 👀 I'm interested in Full Stack development
