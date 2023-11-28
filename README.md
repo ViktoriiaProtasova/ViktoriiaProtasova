@@ -13,12 +13,12 @@
 
 👩‍💻 **About me:**
 
-- 👀 I'm interested in Full Stack development
-- 🌱 I’m currently learning TypeScript and React Native and actively improving my JavaScript skills
-- 👯 I'm eager to explore new collaborative opportunities and take on challenging projects
-- 📫 How to reach me: protasova.dev@gmail.com
-- 👨‍💻 All of my projects are available at [portfolio](https://protasova-portfolio-project.netlify.app/)
-- 📄 Know about my experiences: [view resume](https://drive.google.com/file/d/1MJmxbzF-AklG0iz3dahvBNfV96sF9NT7/view?usp=sharing)
+- 👀 Interested in Full Stack Web development
+- 🌱 Currently learning TypeScript, React Native and enhancing JavaScript skills
+- 👯 Eager to explore new collaborative opportunities and take on challenging projects
+- 📫 Contact me at protasova.dev@gmail.com
+- 👨‍💻 View my projects on [portfolio](https://protasova-portfolio-project.netlify.app/)
+- 📄 Learn about my experience: [view resume](https://drive.google.com/file/d/1Vavd0ln6ijuk6x37B0qCts1xtJEChm0q/view?usp=sharing)
 
 🛠 **My stack:**
 
