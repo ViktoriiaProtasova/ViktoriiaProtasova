@@ -7,7 +7,7 @@
 
 📚 **My educational achievements:**
 
-- [ ] Full Stack Web Development, **Open Uni: Full Stack Web Development 5 cr**
+- [ ] Full Stack Web Development, **Department of Computer Science, Open University of Helsinki**
 - [x] Completed course on **Full Stack development** in **GoIT EdTech company**
 - [x] Certificate in **Introduction to Front-End Developmen**t from **Meta**
 - [x] Certificate in **Basics, Plus, and Responsive Design** from **SheCodes**
