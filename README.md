@@ -7,14 +7,14 @@
 
 📚 **My educational achievements:**
 
-- [ ] Full Stack Web Development, **Department of Computer Science, Open University of Helsinki**
-- [x] Completed course on **Full Stack development** in **GoIT EdTech company**
-- [x] Certificate in **Introduction to Front-End Developmen**t from **Meta**
-- [x] Certificate in **Basics, Plus, and Responsive Design** from **SheCodes**
+- [ ] Full-Stack Web Development, **Department of Computer Science, Open University of Helsinki**
+- [x] Completed course on **Full-Stack development** in **GoIT EdTech company**
+- [x] Certificate in **Introduction to Front-End Development** from **Meta**
+- [x] Certificate in **Basics, Plus, and Responsive Web Development** from **SheCodes**
 
 👩‍💻 **About me:**
 
-- 👀 Interested in Full Stack Web development
+- 👀 Interested in Full-Stack Web development
 - 🌱 Currently learning TypeScript, React Native and enhancing JavaScript skills
 - 👯 Eager to explore new collaborative opportunities and take on challenging projects
 - 📫 Contact me at protasova.dev@gmail.com
