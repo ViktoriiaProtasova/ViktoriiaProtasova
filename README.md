@@ -10,7 +10,7 @@
 - [ ] Full-Stack Web Development, **Department of Computer Science, Open University of Helsinki**
 - [x] Completed course on **Full-Stack development** in **GoIT EdTech company**
 - [x] Certificate in **Introduction to Front-End Development** from **Meta**
-- [x] Certificate in **Basics, Plus, and Responsive Web Development** from **SheCodes**
+- [x] Certificate in **Basics, Plus, and Responsive Web Development + React course** from **SheCodes**
 
 👩‍💻 **About me:**
 
