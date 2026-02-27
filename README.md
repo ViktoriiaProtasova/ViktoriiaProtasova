@@ -18,7 +18,7 @@
 - 👯 Eager to explore new collaborative opportunities and take on challenging projects
 - 📫 Contact me at protasova.dev@gmail.com
 - 👨‍💻 View my projects on [portfolio](https://protasova-portfolio-project.netlify.app/)
-- 📄 Learn about my experience: [view resume](https://drive.google.com/file/d/1dhvA8Ellwqr5ZxOgCgHj7zZeF8vF6ktg/view?usp=sharing)
+- 📄 Learn about my experience: [view resume](https://drive.google.com/file/d/14ZUZr8ebzzD9VOSQnbQt_ck4Ti5FavuH/view?usp=sharing)
 
 🛠 **My stack:**
 
