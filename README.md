@@ -7,6 +7,7 @@
 
 📚 **My educational achievements:**
 
+- [ ] Backend Development Student @ Gokstad Academy
 - [x] Completed course on **Full-Stack development** in **GoIT EdTech company**
 - [x] Certificate in **Introduction to Front-End Development** from **Meta**
 - [x] Certificate in **Basics, Plus, and Responsive Web Development + React course** from **SheCodes**
