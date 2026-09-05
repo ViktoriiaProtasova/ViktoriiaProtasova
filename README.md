@@ -14,7 +14,7 @@
 👩‍💻 **About me:**
 
 - 👀 Interested in Full-Stack Web development
-- 🌱 Currently learning TypeScript, React Native, and enhancing JavaScript skills
+- 🌱 Currently studying Back-End Development at Gokstad Academy (Norway)
 - 👯 Eager to explore new collaborative opportunities and take on challenging projects
 - 📫 Contact me at protasova.dev@gmail.com
 - 👨‍💻 View my projects on [portfolio](https://protasova-portfolio-project.netlify.app/)
