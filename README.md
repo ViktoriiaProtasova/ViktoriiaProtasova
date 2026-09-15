@@ -22,15 +22,15 @@
 🛠 **My stack:**
 
 <div>
-  <img width="50" src="./images/html5-original.svg" title="HTML5" alt="HTML5"  height="40"/>&nbsp&nbsp;
-  <img width="50" src="./images/css3-original.svg"  title="CSS3" alt="CSS3"  height="40"/>&nbsp&nbsp;
-  <img width="50" src="./images/Javascript-shield.svg"  title="JS" alt="JS"  height="40"/>&nbsp&nbsp;
+  <img width="50" src="./images/HTML5.svg" title="HTML5" alt="HTML5"  height="40"/>&nbsp&nbsp;
+  <img width="50" src="./images/CSS3.svg"  title="CSS3" alt="CSS3"  height="40"/>&nbsp&nbsp;
+  <img width="50" src="./images/JavaScript.svg"  title="JS" alt="JS" height="40"/>&nbsp&nbsp;
   <img width="50" src="./images/react-original.svg"  title="React" alt="React"  height="40"/>&nbsp&nbsp;
-  <img width="50" src="./images/redux.svg" title="Redux" alt="Redux"  height="40"/>&nbsp&nbsp;
-  <img width="40" src="./images/python.png" title="Python" alt="Python" height="40"/>&nbsp&nbsp;
-  <img width="40" src="./images/node-js.png" title="Node-js" alt="Node.js" height="40" />&nbsp&nbsp;
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
-  <img width="50" src="./images/sass-original.svg" title="Sass" alt="Sass"  height="40"/>&nbsp&nbsp;
+  <img width="50" src="./images/redux.svg" title="Redux" alt="Redux" height="40"/>&nbsp&nbsp;
+  <img width="50" src="./images/Python.svg" title="Python" alt="Python" height="40"/>&nbsp&nbsp;
+  <img width="50" src="./images/Node.js.svg" title="Node-js" alt="Node.js" height="40"/>&nbsp&nbsp;
+  <img width="50" src="./images/MongoDB.svg" title="mongoDB" alt="mongoDB" height="40"/>&nbsp&nbsp;
+  <img width="50" src="./images/sass-original.svg" title="Sass" alt="Sass" height="40"/>&nbsp&nbsp;
   <img width="50" src="./images/git-original.svg" title="Git" alt="Git"  height="40"/>&nbsp&nbsp;
  </div>
 
