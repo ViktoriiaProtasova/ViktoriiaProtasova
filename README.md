@@ -1,4 +1,4 @@
-<h2>Hi, I'm <a href="https://linktr.ee/viktoriiaprotasova" target="_blank">Viktoriia Protasova</a>,
+<h2>Hi, I'm Viktoriia Protasova</a>,
   <p>Backend Development Student | Frontend Background</p>
 </h2>
 
