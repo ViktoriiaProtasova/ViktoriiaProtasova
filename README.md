@@ -1,22 +1,22 @@
 <h2>Hi, I'm <a href="https://linktr.ee/viktoriiaprotasova" target="_blank">Viktoriia Protasova</a>,
-  <p>Backend Development Student | Frontend background</p>
+  <p>Backend Development Student | Frontend Background</p>
 </h2>
 
 [![codewars](https://www.codewars.com/users/ViktoriiaProtasova/badges/small)](https://www.codewars.com/users/ViktoriiaProtasova)
 
-📚 **My educational achievements:**
+📚 **Education:**
 
 - [ ] **Backend Development** — **Gokstad Academy**, Norway · Currently studying
-- [x] Completed course on **Full-Stack development** in **GoIT EdTech company**
-- [x] Certificate in **Introduction to Front-End Development** from **Meta**
-- [x] Certificate in **Web Development & React** from **SheCodes**
+- [x] **Full-Stack development** — **GoIT EdTech company**
+- [x] **Introduction to Front-End Development** — **Meta**
+- [x] **Web Development & React** — **SheCodes**
 
 👩‍💻 **About me:**
 
 - 💻 Background in HTML, CSS, JavaScript, and React
 - 🐍 Currently studying Python, backend development, and databases
 - 📫 Contact me at protasova.dev@gmail.com
-- 👩‍💻 View my projects on [portfolio](https://protasova-portfolio-project.netlify.app/)
+- 🌐 View my projects on [portfolio](https://protasova-portfolio-project.netlify.app/)
 - 📄 Learn about my experience: [view resume](https://drive.google.com/file/d/14ZUZr8ebzzD9VOSQnbQt_ck4Ti5FavuH/view?usp=sharing)
 
 🛠 **My stack:**
@@ -31,6 +31,7 @@
   <img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
   <img width="50" src="./images/sass-original.svg" title="Sass" alt="Sass"  height="40"/>&nbsp&nbsp;
   <img width="50" src="./images/git-original.svg" title="Git" alt="Git"  height="40"/>&nbsp&nbsp;
+  <img width="50" src="./images/python-original.svg" title="Python" alt="Python" height="40"/>&nbsp&nbsp;
 </div>
 
 <!---
