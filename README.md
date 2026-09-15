@@ -31,7 +31,7 @@
   <img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
   <img width="50" src="./images/sass-original.svg" title="Sass" alt="Sass"  height="40"/>&nbsp&nbsp;
   <img width="50" src="./images/git-original.svg" title="Git" alt="Git"  height="40"/>&nbsp&nbsp;
-  <img width="50" src="./images/python-original.svg" title="Python" alt="Python" height="40"/>&nbsp&nbsp;
+  <img width="50" src="./images/python.png" title="Python" alt="Python" height="40"/>&nbsp&nbsp;
 </div>
 
 <!---
