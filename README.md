@@ -13,11 +13,11 @@
 
 👩‍💻 **About me:**
 
-- 💻 Background in HTML, CSS, JavaScript, and React
-- 🐍 Currently studying Python, backend development, and databases
-- 📫 Contact me at protasova.dev@gmail.com
-- 🌐 View my projects on [portfolio](https://protasova-portfolio-project.netlify.app/)
-- 📄 Learn about my experience: [view resume](https://drive.google.com/file/d/14ZUZr8ebzzD9VOSQnbQt_ck4Ti5FavuH/view?usp=sharing)
+💻 Background in HTML, CSS, JavaScript, and React<br>
+🐍 Currently studying Python, backend development, and databases<br>
+📫 Contact me at protasova.dev@gmail.com<br>
+🌐 View my projects on [portfolio](https://protasova-portfolio-project.netlify.app/)<br>
+📄 Learn about my experience: [view resume](https://drive.google.com/file/d/14ZUZr8ebzzD9VOSQnbQt_ck4Ti5FavuH/view?usp=sharing)
 
 🛠 **My stack:**
 
