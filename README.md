@@ -1,4 +1,4 @@
-<h2>Hi, I'm Viktoriia Protasova</a>,
+<h2>Hi, I'm Viktoriia Protasova
   <p>Backend Development Student | Frontend Background</p>
 </h2>
 
@@ -6,8 +6,8 @@
 
 📚 **Education:**
 
-- [ ] **Backend Development** — **Gokstad Academy**, Norway · Currently studying
-- [x] **Full-Stack development** — **GoIT EdTech company**
+- [ ] **Backend Development** — **Gokstad Academy**
+- [x] **Full-Stack development** — **GoIT**
 - [x] **Introduction to Front-End Development** — **Meta**
 - [x] **Web Development & React** — **SheCodes**
 
